@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUb8EfY9IU7/mggiotsYroxGjtM7uAaVZlrgf3OmrlE7e6zIY/9r0pap0TQVWgjNgIBpsR/fQdJX66SqxJQVUA==",
+  "success": true,
+  "projectFilePath": "E:\\ProgFuncional\\2doParcial319\\Ejercicio_1\\F#\\Fibonacci\\Fibonacci.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willy\\.nuget\\packages\\fsharp.core\\6.0.4\\fsharp.core.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

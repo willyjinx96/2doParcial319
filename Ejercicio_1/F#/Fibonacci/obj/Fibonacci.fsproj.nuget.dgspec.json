@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ProgFuncional\\2doParcial319\\Ejercicio_1\\F#\\Fibonacci\\Fibonacci.fsproj": {}
+  },
+  "projects": {
+    "E:\\ProgFuncional\\2doParcial319\\Ejercicio_1\\F#\\Fibonacci\\Fibonacci.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProgFuncional\\2doParcial319\\Ejercicio_1\\F#\\Fibonacci\\Fibonacci.fsproj",
+        "projectName": "Fibonacci",
+        "projectPath": "E:\\ProgFuncional\\2doParcial319\\Ejercicio_1\\F#\\Fibonacci\\Fibonacci.fsproj",
+        "packagesPath": "C:\\Users\\willy\\.nuget\\packages\\",
+        "outputPath": "E:\\ProgFuncional\\2doParcial319\\Ejercicio_1\\F#\\Fibonacci\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\willy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\6.0.300\\FSharp\\library-packs": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.4, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
