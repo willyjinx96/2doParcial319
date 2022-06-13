@@ -7,4 +7,4 @@ def fib(n): return reduce(lambda x, _: x+[x[-1]+x[-2]+x[-3]],
 
 print("Fibonacci Lambda")
 n = int(input("Introduzca un numero: "))
-print(fib(10))
+print(fib(n))
