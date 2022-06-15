@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "dgSpecHash": "iUb8EfY9IU7/mggiotsYroxGjtM7uAaVZlrgf3OmrlE7e6zIY/9r0pap0TQVWgjNgIBpsR/fQdJX66SqxJQVUA==",
-  "success": true,
+  "dgSpecHash": "rNpJoUShfBpgC2hL6/EWENmA72MnFZDl3njl1rxNG/s7BRXUivTttl9VBR4qh2WGxFCgY+ZH6nNqyE1crmM+rg==",
+  "success": false,
   "projectFilePath": "E:\\ProgFuncional\\2doParcial319\\Ejercicio_1\\F#\\Fibonacci\\Fibonacci.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\willy\\.nuget\\packages\\fsharp.core\\6.0.4\\fsharp.core.6.0.4.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Fibonacci depende de FSharp.Core (>= 5.0.0), pero no se encontró FSharp.Core 5.0.0. Se resolvió una mejor coincidencia aproximada de FSharp.Core 6.0.4.",
+      "libraryId": "FSharp.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.NETCore.App.Host.win-x64. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
