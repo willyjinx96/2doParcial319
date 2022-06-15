@@ -1,0 +1,6 @@
+D:\Github\2doParcialASPNET\LibreriaParcial\bin\Debug\LibreriaParcial.dll
+D:\Github\2doParcialASPNET\LibreriaParcial\bin\Debug\LibreriaParcial.pdb
+D:\Github\2doParcialASPNET\LibreriaParcial\obj\Debug\LibreriaParcial.csproj.AssemblyReference.cache
+D:\Github\2doParcialASPNET\LibreriaParcial\obj\Debug\LibreriaParcial.csproj.CoreCompileInputs.cache
+D:\Github\2doParcialASPNET\LibreriaParcial\obj\Debug\LibreriaParcial.dll
+D:\Github\2doParcialASPNET\LibreriaParcial\obj\Debug\LibreriaParcial.pdb
